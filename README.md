@@ -1,2 +1,3 @@
 # cantera2-ejercicio2
 Taller 2 Abstracciones, interfaces y polimorfismo
+Sistema de creación de Naves Espaciales donde se usan las clases Abtracta, las interfaces y el polimorfismo, el sistema está hecho para que que el usuario elija y según el destino cambie el tipo de cambustible usado, la distancia y el tiempo de llegada, así como tambien las velocidad de cada uno dependiendo de la canmtidad de propursores que tambien se determina por el destino.
